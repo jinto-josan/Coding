@@ -3,6 +3,6 @@
 ################################################################################
 
 /.vs
-/Csharp/Coding/.vs/Coding
+/Csharp/**/.vs/
+/Csharp/**/bin/
 /Csharp/Coding/Basics/obj
-/Csharp/Coding/TestProject/obj
