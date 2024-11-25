@@ -21,6 +21,17 @@ Practicing competitive programming
                 ... this will continue and reach as T(1) = cN + 0
                 T(N)= sum<sub>i=1</sub>(cN)<sup>i=log<sub>2</sub>N</sup> = NlogN
             </p>           
+    - [x] STL
+        - [x] Containers (All stl containers are pass by value.)
+                | Sequence | Assoicative | UnorderedAssociative | Adaptors|
+                |----------|-------------|----------------------|---------|
+                |Array     |Set          |Unordered Set         |Stack    |
+                |Vector    |Map          |Unordered Map         |Queue    |
+                |Deque     |MultiSet     |Un Multi(Dupli)set    |PrtyQ(Hp)|
+                |ForwardLst|MiltiMap     |Unordered MultiMap    |         |
+                |List      |             |                      |         |
+        - [ ] Creating, intializing and [implementing above structures](linkwillbethere)
+        - [ ] [Problems](linkswillbehere)
     - [ ] Data Structures
     - [ ] Bitmanipulation Basics
     - [ ] Bitmanipulation Problems

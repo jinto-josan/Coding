@@ -5,4 +5,4 @@
 /.vs
 /Csharp/**/.vs/
 /Csharp/**/bin/
-/Csharp/Coding/Basics/obj
+/Csharp/**/obj
