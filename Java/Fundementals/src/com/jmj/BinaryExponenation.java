@@ -1,3 +1,5 @@
+package com.jmj;
+
 /**
  * @description This function calculates a^b in O(log b) time. Can be used with (AB)C=A(BC)
  * <p><b>Concept used:- </b></p>
